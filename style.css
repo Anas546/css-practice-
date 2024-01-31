@@ -1,0 +1,27 @@
+*{
+    color: rgb(0, 110, 255);
+}
+.ab{
+    font-size: large;
+text-decoration: dashed;
+background-color: antiquewhite;
+}
+#acha{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: dashed;
+    background-color: rgb(214, 127, 156);
+}
+h1,h2{
+    color: #000;
+    background-color: rgb(10, 230, 57,0.2);
+}
+ol  {
+    color: #22a8d1fb;
+    background-color: rgb(158, 199, 238);
+    text-decoration: none;
+    border: radius 10px; ;
+    border: 2px solid rgb(236, 7, 7,0.5);
+}
+ul{
+    background-color: rgba(0,0,0,0.5);}
+
